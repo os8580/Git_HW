@@ -1,0 +1,12 @@
+1. Git
+2. JavaScript
+3. TypeScript
+4. AQA Playwright
+5. AQA API
+6. AQA UI integrations
+7. AQA mocking
+8. AQA e2e
+9. AQA test reporting
+10. AQA CI/CD, Docker
+11. WebdriverIO + mocha, cucumber
+12. CV  
